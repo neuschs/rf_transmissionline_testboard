@@ -1,4 +1,4 @@
-# rf_transmissionline_testboard
+# Transmission Line Testboard 
 A simple PCB designed according to JLC23313 layer stackup 
 
 There are many different impedance controlled transmission lines, with the most common Zo = 50 Ohm / Zdiff = 100 Ohm
