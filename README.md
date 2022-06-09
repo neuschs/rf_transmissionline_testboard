@@ -19,8 +19,9 @@ There are many different impedance controlled transmission lines, with the most 
 - 50% top 50% bottom track connected by 50 ohm via:
  to verify impedance of via if the coplanar waveguide calculations are all correct.
 
-# Parameters @ production:Base Material: FR-4
+# Parameters @ production:
 
+Base Material: FR-4\
 Layers: 4\
 Dimension: 100 mm* 100 mm\
 PCB Qty: 5\
